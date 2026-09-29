@@ -1,3 +1,8 @@
 __pycache__/
 *.py[cod]
-models/__pycache__/
+
+# local data and experiment outputs
+datasets/
+runs/
+predictions/
+/pred_mask_*.h5
