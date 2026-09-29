@@ -3,7 +3,7 @@ matplotlib
 h5py
 numpy
 pandas
-torchvision
+scipy
 scikit-learn
 seaborn
 tqdm
